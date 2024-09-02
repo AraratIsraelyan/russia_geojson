@@ -1,1 +1,6 @@
+### Необходимые библиотеки 👇
 jupyter-black
+pyarrow
+geopandas
+pandas
+re
